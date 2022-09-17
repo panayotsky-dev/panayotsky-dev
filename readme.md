@@ -2,4 +2,4 @@
 ![snake gif](https://github.com/panayotsky-dev/panayotsky-dev/blob/output/github-contribution-grid-snake.gif)
  <p align="center">Connect with me</p>
 
-<p align="center"><a href=https://www.linkedin.com/in/panayot-petkov-36aa0963/> <img height="40em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/>
+<p align="center"><a href=https://www.linkedin.com/in/panayot-petkov/> <img height="40em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /><a/>
