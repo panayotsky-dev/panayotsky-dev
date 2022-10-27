@@ -13,4 +13,15 @@
 <br><p align="center">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11141040461&count=10)</p></br>
 <details>
  <summary><h4> About me</h4></summary>
-Back in the days even mice had balls..
+ <p>Back in the days even mice had balls..Haha....anyway</p>
+ 
+ <p> I'm Panayot, 32 years old (Yep... ) from Bulgaria.</p>
+ 
+ <p>I have Bechelor degree in Computer Systems and Technology since 2016.</p>
+ 
+  <p> After my university i have started from scratch as constructive-engineer in furniture factory, 
+   but when i achieve everything possible and there were no room to grow more decided that it is time to move on. </p>
+ 
+ <p> Since 2022 i have started online courses with JavaScript in best platform in Bulgaria - SoftUni.</p>
+  
+   
