@@ -20,7 +20,7 @@
  <p>I have Bechelor degree in Computer Systems and Technology since 2016.</p>
  
   <p> After my university i have started from scratch as constructive-engineer in furniture factory, 
-   but when i achieve everything possible and there were no room to grow more decided that it is time to move on. </p>
+   but when i achieve everything possible and there were no room to grow more, i have decided that it is time to move on. </p>
  
  <p> Since 2022 i have started online courses with JavaScript in best platform in Bulgaria - SoftUni.</p>
   
