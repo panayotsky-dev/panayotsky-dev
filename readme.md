@@ -23,5 +23,6 @@
    but when i achieve everything possible and there were no room to grow more, i have decided that it is time to move on. </p>
  
  <p> Since 2022 i have started online courses with JavaScript in best platform in Bulgaria - SoftUni.</p>
+<p> In the past year i've finished successfully the courses : JavaScript Basics, JavaScript Fundamentals, JavaScript Advanced and JavaScript Applications </p>
   
    
