@@ -24,5 +24,6 @@
  
  <p> Since 2022 i have started online courses with JavaScript in best platform in Bulgaria - SoftUni.</p>
 <p> In the past year i've finished the courses : JavaScript Basics, JavaScript Fundamentals, JavaScript Advanced and JavaScript Applications </p>
+ <p> Feel free to contact me </p>
   
    
