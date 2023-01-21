@@ -13,7 +13,7 @@
 <br><p align="center">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11141040461&count=10)</p></br>
 <details>
  <summary><h4> About me</h4></summary>
- <p> I'm Panayot, 32 years old (Yep... ) from Bulgaria.</p>
+ <p> I'm Panayot Petkov, from Bulgaria.</p>
  
  <p>I have Bechelor degree in Computer Systems and Technology since 2016.</p>
  
