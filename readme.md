@@ -25,5 +25,8 @@
 <p> In the past year i've finished the courses : JavaScript Basics, JavaScript Fundamentals, JavaScript Advanced and JavaScript Applications and ReactJS
  <p> Since May i've started JS Back-End and Angular course @ SoftUni
  <p> Feel free to contact me </p>
+
   
    
+![tumblr_69bab544cceb4a5adace8357b12530f8_449340e5_500](https://github.com/panayotsky-dev/panayotsky-dev/assets/104060829/ecf56840-cbaf-4858-bc7b-7aa30902b1e5)
+
