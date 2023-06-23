@@ -23,7 +23,7 @@
  
  <p> Since 2022 i have started online courses with JavaScript at SoftUni.</p>
 <p> In the past year i've finished the courses : JavaScript Basics, JavaScript Fundamentals, JavaScript Advanced and JavaScript Applications and ReactJS
- <p> Since May i've started JS Back-End and Angular course @ SoftUni
+ <p> Since May i've started JS Back-End + HTML/CSS and Angular course @ SoftUni
  <p> Feel free to contact me </p>
 
   
