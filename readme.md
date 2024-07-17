@@ -7,6 +7,7 @@
  
 
 <br><p align="center"><a href=https://www.linkedin.com/in/panayot-petkov/> <img height="40em" src="https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png" /></br>
+<br>My 2023 Portfolio <a href=https://panayotsky-portfolio.vercel.app/></br>
 <br><p align="center">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11141040461&count=10)</p></br>
 
 <details>
