@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://panayotsky-portfolio.vercel.app">
     <img src="https://github.com/user-attachments/assets/c5ae50e6-33f3-4af4-9984-5cc66dc2bd9c" alt="githreadme">
